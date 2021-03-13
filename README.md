@@ -1,1 +1,2 @@
 # posledneslovo
+serus
